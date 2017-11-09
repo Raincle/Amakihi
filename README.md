@@ -30,4 +30,4 @@ Purification for Browsing websites.
 
 ## 3.使用
 
-* 登入响应网站，**刷新**页面即可使用
+* 登入相应网站，**刷新**页面即可使用
