@@ -1,7 +1,6 @@
 # Amakihi
 
 Purification for Browsing websites.
-用于净化网站。
 
 <img src='https://raw.githubusercontent.com/Raincle/Amakihi/master/images/blank.png' width='600' alt='blank'>
 
@@ -23,7 +22,7 @@ Purification for Browsing websites.
 <img src='https://raw.githubusercontent.com/Raincle/Amakihi/master/images/utils.png' width='600' alt='实用工具'>
 
 * 页面底部可以看到填写URL的输入框，输入下面这行URL，并点击导入
-* `https://raw.githubusercontent.com/Raincle/yit_service_stars/master/yit_service_stars.js` 
+* `https://raw.githubusercontent.com/Raincle/Amakihi/master/domains/baidu.js` 
 
 * 在弹出的页面中，选择“安装”，瞬间即可完成
 
