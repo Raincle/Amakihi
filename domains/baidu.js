@@ -11,7 +11,10 @@
 (function() {
     'use strict';
     
-    $("#u, #u1, #lg, .qrcodeCon, #ftCon, #content_right").remove();
+    // 首页
+    $("#u, #u1, #lg, .qrcodeCon, #ftCon").remove();
+    // 搜索结果页
+    $("#content_right, #foot").remove();
     $("#result_logo").css("opacity", 0);
     document.title = "搜索";
     $("#su").val("搜索");
